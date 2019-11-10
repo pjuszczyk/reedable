@@ -1,0 +1,326 @@
+# Copyright (C) 2016 reedable
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: reedable 1.0\n"
+"POT-Creation-Date: 2014-03-31 14:34+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-03-31 14:34+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: reedable/header.php:42
+msgid "Menu"
+msgstr ""
+
+#: reedable/header.php:43
+msgid "Skip to content"
+msgstr ""
+
+#: reedable/content-single.php:32 reedable/content-page.php:16
+#: reedable/content.php:45
+msgid "Read More<span></span>"
+msgstr ""
+
+#: reedable/content-single.php:34 reedable/content-page.php:17 reedable/image.php:94
+msgid "Pages:"
+msgstr ""
+
+#: reedable/content-single.php:40 reedable/content-single.php:43
+msgid ", "
+msgstr ""
+
+#: reedable/content-single.php:48
+#, php-format
+msgid "Tagged %2$s"
+msgstr ""
+
+#: reedable/content-single.php:57
+#, php-format
+msgid "Posted in %1$s<span class=\"sep\"> &#183; </span>Tagged %2$s"
+msgstr ""
+
+#: reedable/content-single.php:60
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: reedable/content-single.php:73 reedable/content-page.php:19
+#: reedable/content.php:22 reedable/content.php:59 reedable/image.php:108
+#: reedable/inc/template-tags.php:119 reedable/inc/template-tags.php:133
+msgid "Edit"
+msgstr ""
+
+#: reedable/footer.php:21
+msgid "WordPress"
+msgstr ""
+
+#: reedable/functions.php:73
+msgid "Primary Menu"
+msgstr ""
+
+#: reedable/functions.php:94
+msgid "Sidebar"
+msgstr ""
+
+#: reedable/functions.php:190
+msgid "The End"
+msgstr ""
+
+#: reedable/functions.php:245
+msgid "Read More"
+msgstr ""
+
+#: reedable/functions.php:269
+msgid "Enter your video link, embed code or shortcode here:"
+msgstr ""
+
+#: reedable/functions.php:278
+msgid "Enter your audio link, embed code or shortcode here:"
+msgstr ""
+
+#: reedable/functions.php:286
+msgid "Video"
+msgstr ""
+
+#: reedable/functions.php:294
+msgid "Audio"
+msgstr ""
+
+#: reedable/no-results.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: reedable/no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: reedable/no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: reedable/no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: reedable/search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: reedable/content.php:19 reedable/content.php:56
+msgid "Leave a comment"
+msgstr ""
+
+#: reedable/content.php:19 reedable/content.php:56
+msgid "1 Comment"
+msgstr ""
+
+#: reedable/content.php:19 reedable/content.php:56
+msgid "% Comments"
+msgstr ""
+
+#: reedable/content.php:26
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: reedable/archive.php:22
+#, php-format
+msgid "Posts from the <span>'%s'</span> Category"
+msgstr ""
+
+#: reedable/archive.php:25
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: reedable/archive.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: reedable/archive.php:40
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: reedable/archive.php:43
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: reedable/archive.php:46
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: reedable/archive.php:49
+msgid "Archives"
+msgstr ""
+
+#: reedable/404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: reedable/404.php:20
+msgid "Please feel free to <a href=\""
+msgstr ""
+
+#: reedable/image.php:24
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: reedable/image.php:38
+msgid "Previous"
+msgstr ""
+
+#: reedable/image.php:39
+msgid "Next"
+msgstr ""
+
+#: reedable/image.php:100
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: reedable/image.php:102
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: reedable/image.php:104
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: reedable/image.php:106
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: reedable/comments.php:39 reedable/comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: reedable/comments.php:40 reedable/comments.php:60
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: reedable/comments.php:41 reedable/comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: reedable/comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: reedable/comments.php:75
+msgid "Submit Comment"
+msgstr ""
+
+#: reedable/inc/template-tags.php:38
+msgid "Post navigation"
+msgstr ""
+
+#: reedable/inc/template-tags.php:49
+msgid ""
+"<span class=\"img loader\"></span><span class=\"img loader2\"></span><span "
+"class=\"text\">Load more posts</span>"
+msgstr ""
+
+#: reedable/inc/template-tags.php:85
+msgid "<span class=\"meta-nav\"></span>Older posts"
+msgstr ""
+
+#: reedable/inc/template-tags.php:93
+msgid "Newer posts<span class=\"meta-nav\"></span>"
+msgstr ""
+
+#: reedable/inc/template-tags.php:119
+msgid "Pingback:"
+msgstr ""
+
+#: reedable/inc/template-tags.php:128
+#, php-format
+msgid "%s <span class=\"says\">on</span>"
+msgstr ""
+
+#: reedable/inc/template-tags.php:137
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: reedable/inc/template-tags.php:162
+#, php-format
+msgid ""
+"<a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" "
+"datetime=\"%3$s\">%4$s</time></a>"
+msgstr ""
+
+#: reedable/inc/extras.php:78
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: reedable/inc/customizer.php:19
+msgid "Colors"
+msgstr ""
+
+#: reedable/inc/customizer.php:22
+msgid "Allows you to customize some colors."
+msgstr ""
+
+#: reedable/inc/customizer.php:34
+msgid "Color"
+msgstr ""
+
+#: reedable/inc/customizer.php:43
+msgid "Social networks"
+msgstr ""
+
+#: reedable/inc/customizer.php:46
+msgid "Allows you to customize social network links."
+msgstr ""
+
+#: reedable/inc/customizer.php:78
+msgid "Page Navigation"
+msgstr ""
+
+#: reedable/inc/customizer.php:89
+msgid "Standard"
+msgstr ""
+
+#: reedable/inc/customizer.php:90
+msgid "Load More Button"
+msgstr ""
+
+#: reedable/inc/customizer.php:91
+msgid "Infinite Scroll"
+msgstr ""
+
+#: reedable/inc/customizer.php:97
+msgid "Galleries"
+msgstr ""
+
+#: reedable/inc/customizer.php:104
+msgid "Disable custom fancybox galleries"
+msgstr ""

@@ -1,5 +1,5 @@
 # TODO
-The objective of this theme is to focus on readability and site performance.
+Focus on readability and site performance.
 
 ## Readability & Design
 ### Style
